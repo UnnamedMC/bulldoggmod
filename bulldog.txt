@@ -1,0 +1,7 @@
+"bulldog"
+{
+	"base"		"base"
+	"title"		"British Bulldog"
+	"menusystem"	"1"
+	"maps"		"^bb_"
+}
